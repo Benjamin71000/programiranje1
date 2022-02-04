@@ -1,7 +1,7 @@
 # programiranje1
 
-Zadatak 1 *
+[zadatak1](https://github.com/Benjamin71000/programiranje1/blob/main/zadatak1.cpp)
 
-Zadatak 2
+[zadatak2](https://github.com/Benjamin71000/programiranje1/blob/main/zadatak2.cpp)
 
 ![zadatak 2](https://user-images.githubusercontent.com/96847840/152553735-f0bb1e32-3829-4e19-9d9b-1107fc53764e.png)
