@@ -26,3 +26,7 @@ Napisati program u kojem je potrebno unijeti odabrani broj cifara počevši od c
 Poštujući sve faze procesa programiranja, napisati program koji korisniku omogućava unos cijelog broja N, te izračunava vrijednost sume faktorijela neparnih brojeva u intervalu [1, N]. Suma faktorijela prikazana je sljedećom formulom: S = 1! + 3! + 5! + ... + N!
 
 
+# [zadatak5](https://github.com/Benjamin71000/programiranje1/blob/main/zadatak5.cpp)
+Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kreirati i ispisati broj B koji će se sastojati od cifara broja A u obrnutom redoslijedu u kojem je svaka parna uklonjena. (npr. ako se unese 45362792 funkcija će vratiti 9735). Ispisati razliku brojeva A i B. (Obavezno koristiti bar jednu korisnički definiranu funkciju.)
+
+
