@@ -30,6 +30,7 @@ Poštujući sve faze procesa programiranja, napisati program koji korisniku omog
 Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kreirati i ispisati broj B koji će se sastojati od cifara broja A u obrnutom redoslijedu u kojem je svaka parna uklonjena. (npr. ako se unese 45362792 funkcija će vratiti 9735). Ispisati razliku brojeva A i B. (Obavezno koristiti bar jednu korisnički definiranu funkciju.)
 
 
+
 # [zadatak6](https://github.com/Benjamin71000/programiranje1/blob/main/zadatak6.cpp)
 Postujuci sve faze procesa programiranja, napisati proram koji korisniku omogucava unos cijelog broja N, te izracunava vrijednost sume faktorijela prostih brojeva u intervalu [1, N].
 
@@ -46,3 +47,9 @@ Nije potrebno tražiti bilo kakav unos od korisnika.
 Napisati program koji omogućava unos pozitivnog broja n te pronalazi njegove parne cifre i formira novi broj u kojem su parne cifre zamijenjene cifrom '5'.
 
 Dodatno program treba ispisati razliku unesenog i broja koji se dobije nakon zamjene.
+
+
+# [zadatak9](https://github.com/Benjamin71000/programiranje1/blob/main/zadatak9.cpp)
+Napisati program koji će omogućiti korisniku unos broja n ( 10 <= n <= 1000). Zatim simulirati n bacanja kockice (kockica ima 6 strana i na tim stranicama su brojevi 1-6). Simuliranje bacanja svake kockice ostvariti funkcijom rand() % 6 + 1. Izračunati statičke podatke u kojem procentu ukupnog bacanja se dobiva svaki od mogućih brojeva 1-6. Obavezno koristiti switch statement za zbrajanje rezultata bacanja kockice.
+
+Napomena: Po želji kreirati dodatne funkcije da se olakša rješavanje zadataka
