@@ -6,3 +6,5 @@ Napišite program u kojem ćete upotrijebiti rekurzivnu funkciju čiji je zadata
 
 # [zadatak3](https://github.com/Benjamin71000/programiranje1/blob/main/recursion/recursion%20fibonacci.cpp)
 Napišite program u kojem ćete upotrijebiti rekurzivnu funkciju čiji je zadatak računanje n-tog člana Fibonacci-jevog niza.
+
+# [recursion faktorijel](https://github.com/Benjamin71000/programiranje1/blob/main/recursion/recursion%20faktorijel.cpp)
