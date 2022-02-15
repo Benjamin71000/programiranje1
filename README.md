@@ -53,3 +53,6 @@ Dodatno program treba ispisati razliku unesenog i broja koji se dobije nakon zam
 Napisati program koji će omogućiti korisniku unos broja n ( 10 <= n <= 1000). Zatim simulirati n bacanja kockice (kockica ima 6 strana i na tim stranicama su brojevi 1-6). Simuliranje bacanja svake kockice ostvariti funkcijom rand() % 6 + 1. Izračunati statičke podatke u kojem procentu ukupnog bacanja se dobiva svaki od mogućih brojeva 1-6. Obavezno koristiti switch statement za zbrajanje rezultata bacanja kockice.
 
 Napomena: Po želji kreirati dodatne funkcije da se olakša rješavanje zadataka
+
+
+# [polindrom i prost broj](https://github.com/Benjamin71000/programiranje1/blob/main/palindrom%20i%20prost%20broj.cpp)
