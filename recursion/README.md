@@ -8,3 +8,5 @@ Napišite program u kojem ćete upotrijebiti rekurzivnu funkciju čiji je zadata
 Napišite program u kojem ćete upotrijebiti rekurzivnu funkciju čiji je zadatak računanje n-tog člana Fibonacci-jevog niza.
 
 # [recursion faktorijel](https://github.com/Benjamin71000/programiranje1/blob/main/recursion/recursion%20faktorijel.cpp)
+
+#[recursion n u binarni broj](https://github.com/Benjamin71000/programiranje1/blob/main/recursion/rekurzija%20n%20u%20binarni%20broj.cpp)
