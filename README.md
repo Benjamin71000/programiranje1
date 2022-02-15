@@ -31,6 +31,8 @@ Napisati program koji će omogućiti unos prirodnog broja A (A > 100000), te kre
 
 
 
+
+
 # [zadatak6](https://github.com/Benjamin71000/programiranje1/blob/main/zadatak6.cpp)
 Postujuci sve faze procesa programiranja, napisati proram koji korisniku omogucava unos cijelog broja N, te izracunava vrijednost sume faktorijela prostih brojeva u intervalu [1, N].
 
@@ -56,3 +58,6 @@ Napomena: Po želji kreirati dodatne funkcije da se olakša rješavanje zadataka
 
 
 # [polindrom i prost broj](https://github.com/Benjamin71000/programiranje1/blob/main/palindrom%20i%20prost%20broj.cpp)
+
+
+# [goldback funkcija](https://github.com/Benjamin71000/programiranje1/blob/main/goldbach%20funkcija.cpp)
