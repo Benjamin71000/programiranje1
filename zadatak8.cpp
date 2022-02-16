@@ -41,5 +41,5 @@ int zamjeni(int num)
 		}
 
 	}
-	return noviBroj;
+	return noviBroj; // pazi da return ne bude u while loopu
 }
