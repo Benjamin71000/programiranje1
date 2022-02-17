@@ -18,7 +18,7 @@ int obrniBroj(int num)
 	int trenutna_cifra = 0;
 	int novi_broj = 0;
 
-	while (num > 0)
+	while (num > 0)    // obavezno while / do while loop!!! mora imati koliko puta ovo odradit
 	{
 		trenutna_cifra = num % 10;
 		if (trenutna_cifra % 2 == 0)
