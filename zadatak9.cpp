@@ -24,7 +24,7 @@ int main()
 
 	while (bacanje < num)
 	{
-		int kocka = bacanjeKocke();
+		int kocka = bacanjeKocke();    // Staviti u while petlji!!!
 
 		switch (kocka) 
 		{
